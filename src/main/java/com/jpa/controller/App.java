@@ -1,4 +1,4 @@
-package com.jpa.crud.JPA_CRUD;
+package com.jpa.controller;
 
 /**
  * Hello world!
